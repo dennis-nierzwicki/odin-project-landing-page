@@ -26,7 +26,7 @@ Using free, license-safe images from Unsplash, Pexels, and Pixabay
 Choosing my own color palette and font combinations to give the page a unique look and feel
 
 Image Credits
-TBD
+Pexels
 
 Takeaways
 This project was a great exercise in:
